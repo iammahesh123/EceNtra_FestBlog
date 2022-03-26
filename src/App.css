@@ -13,7 +13,7 @@ body {
 .header {
   width: 100%;
   height: 100vh;
-  background: url("/home/kadambala/Desktop/myprofile/public/images/bg.jpg");
+  background: #1f2235;
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
